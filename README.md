@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @herbertiny
-- 👀 I’m interested in emerging Engineering Technology
-- 🌱 I’m currently Studing  Protroleum Engineering
-- 💞️ I’m looking to collaborate on any engineering related projecta
+- 👀 I’m interested in studying Computer Science in the US. 
+- 🌱 I’m currently a High School Graduate
+- 💞️ I’m looking to collaborate on any tech related projects
 <!---- 📫 How to reach me 
 
 - ⚡ Fun fact: ...--->
